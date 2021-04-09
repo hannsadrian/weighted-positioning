@@ -9,5 +9,6 @@
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\""
-  }
+  },
+  "keywords": ["positioning", "trilateration", "weighted"]
 }
