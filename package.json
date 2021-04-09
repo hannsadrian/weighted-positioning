@@ -1,6 +1,6 @@
 {
   "name": "weighted-positioning",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Localization weighted proximity to given vector coordinates",
   "main": "index.js",
   "repository": "https://github.com/Adwirawien/positioning-minmax.git",
