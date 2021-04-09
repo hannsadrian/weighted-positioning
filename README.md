@@ -1,2 +1,2 @@
-# positioning-minmax
-Localization using the Min-Max algorithm which is based on simple geometric considerations
+# weighted-positioning
+Localization weighted proximity to given vector coordinates

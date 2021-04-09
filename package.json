@@ -1,0 +1,10 @@
+{
+  "name": "weighted-positioning",
+  "version": "0.0.1",
+  "description": "Localization weighted proximity to given vector coordinates",
+  "main": "index.js",
+  "repository": "https://github.com/Adwirawien/positioning-minmax.git",
+  "author": "Adrian <hannsadrian@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
