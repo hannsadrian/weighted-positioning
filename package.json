@@ -10,5 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "keywords": ["positioning", "trilateration", "weighted"]
+  "keywords": [
+    "positioning",
+    "trilateration",
+    "weighted"
+  ]
 }
