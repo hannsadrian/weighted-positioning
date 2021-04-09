@@ -6,5 +6,8 @@
   "repository": "https://github.com/Adwirawien/positioning-minmax.git",
   "author": "Adrian <hannsadrian@gmail.com>",
   "license": "GPL-3.0",
-  "private": false
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  }
 }
